@@ -11,3 +11,6 @@ August 13, 2012
 - [Play's Anorm documentation](https://github.com/playframework/Play20/wiki/ScalaAnorm)
 
 - [Slides from my talk](http://goo.gl/DSwIv)
+
+- Brad Fritz's [Slick talk](https://github.com/bfritz/indyscala-slick), from 
+  the same meetup.
